@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mewan! 👋
 
-<!--
-**mewan-mewan/mewan-mewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate
 
-Here are some ideas to get you started:
+💻 Interested in Web Development and Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Java
+- Git and GitHub
+
+## 🚀 Projects
+### Campus Website
+A campus website project developed using PHP, MySQL, HTML, CSS, and JavaScript.
+
+🔗 [View My Project](https://github.com/mewan-mewan/project)
+
+## 💼 Experience
+IT Intern at Hayleys Fentons
+
+## 🎯 Career Interests
+- Web Development
+- Software Engineering
+- Cybersecurity
+
+## 📫 Connect With Me
+- GitHub: [mewan-mewan](https://github.com/mewan-mewan)
